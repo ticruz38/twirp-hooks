@@ -1,4 +1,4 @@
-module git.fundsdlt.net/fdlt/go_hooks
+module github.com/ticruz38/twirp-hooks
 
 go 1.12
 
